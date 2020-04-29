@@ -1,0 +1,96 @@
+<svg viewBox="0 0 2385 1510" version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="lgLime2Green" x2="0" y2="100%">
+<stop stop-color="#C8FF00"/>
+<stop offset="1" stop-color="#008000"/>
+</linearGradient>
+<linearGradient id="lgCyan2BlueH">
+<stop stop-color="#0FF"/>
+<stop offset="1" stop-color="#00F"/>
+</linearGradient>
+<linearGradient id="lgCyan2BlueV" x2="0" y2="100%">
+<stop stop-color="#0FF"/>
+<stop offset=".1" stop-color="#0FF"/>
+<stop offset="1" stop-color="#00F"/>
+</linearGradient>
+</defs>
+<rect x="333.16" y="230.23" width="379.68" height="1119.31" fill="#DCDCDC"/>
+<path d="M968.99 1349.79l-257.84-.15.78-1119.09 165.08.21 136.17 353.63Z" fill="url(#lgCyan2BlueH)"/>
+<path d="M1525.55 524.42 1278.26 789.17l-216.65.73-134.3-267.45-22.84-291.6 621.08-.3Z" fill="url(#lgLime2Green)"/>
+<path d="M1184.07 1349.54H963.28l3.19-777.99c0 0 75.94 156.09 150.52 175.9 49.57 13.16 100.31-26.46 144.85-51.88 98.46-56.19 263.7-217.33 263.99-217.33v871.3Z"/>
+<path d="M1525.83 1015.35v61.07l-297.01 9.66-44.73 28.9-.15 234.88-54.2.37V1102s-4.02-20.73 14.55-56.06 76.25-30.52 76.25-30.52Z" fill="#DA8100"/>
+<path d="M1296.42 1349.54H1184V1114.98a37 33 0 0 1 36.41-32.4c95.92.19 305.18-8.64 305.42-8.64v54.3c0 0-144.55.26-208.67 6.26-18.06 7.79-18.12 27.98-18.12 27.98Z" fill="#FFDCFF"/>
+<path d="M874.9 230.81l36.18-.44 20.83 156.27 16.11 114.01L972.8 615.9l-6.81 75.75c0 0-40.52-116.21-53.91-176.13-13.93-62.31-19.41-126.23-27.26-189.6-3.92-31.63-9.92-95.11-9.92-95.11Z" fill="#B400FF"/>
+<path d="M1183.92 1349.92l.15-234.88c0 0 4.71-31.82 36.32-32.4 45.24-1.63 65.82 65.45 107.6 82.86 60.34 25.14 195.98 26.06 195.98 26.06l110.63-.91M1129.63 1350.4l-1.03-258.44c0 0-.39-22.56 22.05-51.68 10.7-13.69 15.3-19.83 15.3-19.83 0 0-97.89-106.98-128.06-171.68-56.99-122.24-68.72-261.12-92.92-393.8-13.43-73.63-29.02-224.3-29.02-224.3l-.53-74.99" fill="none" stroke="red" stroke-width="10"/>
+
+<g fill="none" stroke="#000" stroke-width="2" stroke-opacity=".59">
+<g id="gh5">
+<g id="gh2">
+<path id="gridH" d="M326.39 1349.54H1525.83m0-33.65H333.16m0-19.21H1525.83m0-14.44H333.16m0-11.99H1525.83m0-7.22H333.16m0-7.22H1525.83m0-7.22H333.16m0-4.77H1525.83"/>
+<use xlink:href="#gridH" y="-111.82"/>
+</g>
+<use xlink:href="#gh2" y="-223.64"/>
+<use xlink:href="#gridH" y="-447.28"/>
+</g>
+<use xlink:href="#gh5" y="-559.1"/>
+
+<path id="gridV" d="M333.16 230.23V1359.14m119.11-2.46V230.23m69.72 0V1356.68m51.1 0V230.23m37.43 0V1356.68m32.29 0V230.23m25.51 0V1356.68m23.81 0V230.23m20.46 0V1356.68"/>
+<use xlink:href="#gridV" x="397.29"/>
+<use xlink:href="#gridV" x="794.57"/>
+
+<path d="M326.39 230.23H1525.83V1359.14"/>
+</g>
+
+<g stroke="#000" stroke-width="8.22" stroke-linejoin="round" stroke-opacity=".59">
+<g stroke-width="12.4">
+<path d="M1570.99 659.42h135.95V837.26H1570.99Z" fill="url(#lgLime2Green)"/>
+<path d="M1570.99 342.6h135.95V520.35H1570.99Z" fill="url(#lgCyan2BlueV)"/>
+</g>
+<path d="M1568.91 552.01h140.11v76.06H1568.91Z" fill="#B400FF"/>
+<path d="M1568.91 235.1h140.11v76.06H1568.91Z" fill="#DCDCDC"/>
+<path d="M1568.91 975.28h140.11v76.06H1568.91Z" fill="#FFDCFF"/>
+<path d="M1568.91 869.65h140.11V945.7H1568.91Z" fill="#DA8100"/>
+</g>
+
+<path id="arrow" d="M964.32 179.78h18.79a18 5 45 0 0 15.12 12.2v1.64a18 5-45 0 0-15.16 12.49H964.25l13.22-8.98H940.05v-8.77h37.42Z" fill="red" stroke="red"/>
+<use xlink:href="#arrow" transform="matrix(-1,0,0,1,1832,0)"/>
+<use xlink:href="#arrow" transform="matrix(0,1,-1,0,1774,273)"/>
+<use xlink:href="#arrow" transform="matrix(0,-1,-1,0,1774,2111)"/>
+
+<g font-family="Times New Roman" font-size="48">
+<text x="1220" y="90" font-size="100" text-anchor="middle">Supernovae / mass-metallicity</text>
+<g fill="red">
+<text x="805" y="204" text-anchor="end">H envelope</text>
+<text x="1023" y="204">no H envelope</text>
+<text x="1612" y="1154">no H envelope</text>
+<text x="1612" y="1254">H envelope</text>
+</g>
+<text x="235" y="230">10<tspan dy="-20" font-size="36">3</tspan></text>
+<text x="235" y="342">10<tspan dy="-20" font-size="36">2</tspan></text>
+<text x="235" y="454">10<tspan dy="-20" font-size="36">1</tspan></text>
+<text x="150" y="556">(Sun)</text>
+<text x="285" y="566">1</text>
+<text x="235" y="678">10<tspan dy="-20" font-size="36">-1</tspan></text>
+<text x="235" y="790">10<tspan dy="-20" font-size="36">-2</tspan></text>
+<text x="235" y="902">10<tspan dy="-20" font-size="36">-3</tspan></text>
+<text x="235" y="1014">10<tspan dy="-20" font-size="36">-4</tspan></text>
+<text x="235" y="1126">10<tspan dy="-20" font-size="36">-5</tspan></text>
+<text x="235" y="1238">10<tspan dy="-20" font-size="36">-6</tspan></text>
+<text x="110" y="1342">Metal-free</text>
+<text x="688" y="1425">10<tspan dy="-20" font-size="36">1</tspan></text>
+<text x="1084" y="1425">10<tspan dy="-20" font-size="36">2</tspan></text>
+<text x="1480" y="1425">10<tspan dy="-20" font-size="36">3</tspan></text>
+<g font-size="56">
+<text x="926" y="1478" text-anchor="middle">Initial mass (solar masses)</text>
+<text x="-916" y="182" transform="rotate(-90)">Metallicity</text>
+<text x="1740" y="288">White dwarfs<tspan dy="12" font-size="36">(low mass)</tspan></text>
+<text x="1740" y="390">SN II-P</text>
+<text x="1740" y="500">Weak SN II-P</text>
+<text x="1740" y="606">SN II-L/b</text>
+<text x="1740" y="714">SN Ib/c</text>
+<text x="1740" y="818">Weak SN Ib/c</text>
+<text x="1740" y="922">Pair instability<tspan dy="12" font-size="36">(BH)</tspan></text>
+<text x="1740" y="1028">Pair instability<tspan dy="12" font-size="36">(no BH)</tspan></text>
+</g>
+</g>
+</svg>
